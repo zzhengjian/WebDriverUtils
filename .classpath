@@ -3,6 +3,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="test"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
-	<classpathentry kind="lib" path="D:/QA/libs/selenium-server-standalone-2.44.0.jar" sourcepath="/client"/>
+	<classpathentry kind="lib" path="S:/azheng/selenium jars/2.53.0/selenium-server-standalone-2.53.0.jar" sourcepath="/client"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
